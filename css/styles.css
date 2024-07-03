@@ -199,7 +199,7 @@ img {
   color: var(--first-color);
 }
 
-/* .home_social {
+.home_social {
   display: flex;
   flex-direction: column;
 }
@@ -214,7 +214,7 @@ img {
 .home_social-icon:hover {
   color: var(--first-color);
 }
- */
+
 .home_img {
   position: absolute;
   right: 0;
